@@ -13,7 +13,7 @@ l_list.each do |i|
       if x < 20 
         print "~"
       else
-        puts "*"
+        puts "&"
       end
     end
   end
